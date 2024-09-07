@@ -449,6 +449,11 @@ section {
     }
 
     .logo{
-        font-size: 14pX;
+        font-size: 14.47pX;
     }
+
+    .logo span{
+        border-radius: 6px;
+    }
+
 }
