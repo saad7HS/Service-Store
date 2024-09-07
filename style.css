@@ -429,4 +429,9 @@ section {
         font-size: 10px;
      
     }
+
+    .card{
+        width: 13.25em;
+    }
+
 }
