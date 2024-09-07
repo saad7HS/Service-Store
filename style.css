@@ -438,7 +438,7 @@ section {
 
 }
 
-@media (max-width:300px){
+@media (max-width:320px){
     body{
         font-size: 10px;
      
@@ -448,4 +448,7 @@ section {
         width: 13.25em;
     }
 
+    .logo{
+        font-size: 14pX;
+    }
 }
