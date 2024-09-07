@@ -228,6 +228,10 @@ section {
     margin: 40px;
     transition: 0.7s ease;
     color: #3a6cf4;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 
