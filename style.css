@@ -404,6 +404,10 @@ section {
         align-items: center;
     }
 
+    .card{
+        width: 16.25em;
+    }
+
 }
 
 @media (max-width:641px){
