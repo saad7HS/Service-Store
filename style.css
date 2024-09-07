@@ -37,7 +37,8 @@ body {
     width: 100%
 }
 
-.logo{width:250PX;
+.logo{
+    width:250PX;
     padding: 8px 10px;
     font-weight: 900;
     font-size: 1.8em;
@@ -408,6 +409,14 @@ section {
         width: 16.25em;
     }
 
+    .logo{
+        width: 40%;
+    }
+    
+    .menu {
+        font-size: 10PX;
+    }
+
 }
 
 @media (max-width:641px){
@@ -422,6 +431,11 @@ section {
     .main-content h3{
         font-size: 1.4em;
     }
+
+    .logo{
+        width: 50%;
+    }
+
 }
 
 @media (max-width:300px){
